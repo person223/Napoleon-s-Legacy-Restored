@@ -29,3 +29,4 @@ Reshape hanseatic cities
 Check pops for northern louisiana province
 Redraw Geneva and Libourg and shift pops
 Adjust Definitions.csv to update new provinces
+Rename the original Cottbus and Erfurt provinces to something else
